@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemadesigner version="6.5">
+<source>
+<database charset="utf8" collation="utf8_general_ci">lianxi02</database>
+</source>
+<canvas zoom="100">
+<tables>
+<table name="teacher" view="colnames">
+<left>654</left>
+<top>40</top>
+<width>78</width>
+<height>143</height>
+<sql_create_table>CREATE TABLE `teacher` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `NAME` varchar(20) DEFAULT NULL,
+  `intro` varchar(50) DEFAULT NULL,
+  `LEVEL` char(20) DEFAULT NULL,
+  PRIMARY KEY (`id`),
+  KEY `index_teacher_name` (`NAME`)
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8</sql_create_table>
+</table>
+<table name="lagou_subject" view="colnames">
+<left>147</left>
+<top>78</top>
+<width>127</width>
+<height>160</height>
+<sql_create_table>CREATE TABLE `lagou_subject` (
+  `subject_id` int(11) NOT NULL AUTO_INCREMENT,
+  `subject_name` varchar(50) DEFAULT NULL,
+  `subject_descp` varchar(50) DEFAULT NULL,
+  `create_time` datetime DEFAULT NULL,
+  `update_time` datetime DEFAULT NULL,
+  PRIMARY KEY (`subject_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8</sql_create_table>
+</table>
+<table name="lagou_course" view="colnames">
+<left>392</left>
+<top>160</top>
+<width>119</width>
+<height>194</height>
+<sql_create_table>CREATE TABLE `lagou_course` (
+  `course_id` int(11) NOT NULL AUTO_INCREMENT,
+  `teacher_id` int(11) DEFAULT NULL,
+  `subject_id` int(11) DEFAULT NULL,
+  `course_title` varchar(50) DEFAULT NULL,
+  `all_class` int(11) DEFAULT NULL,
+  `browse_num` bigint(20) DEFAULT NULL,
+  `course_sta` char(2) DEFAULT NULL,
+  PRIMARY KEY (`course_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8</sql_create_table>
+</table>
+</tables>
+</canvas>
+</schemadesigner>

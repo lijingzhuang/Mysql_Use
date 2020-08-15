@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a07feaa-be01-4862-92b9-709b6debf903" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1g4tbNJAW8t57dE14oAlzp6OyiR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lijingzhuang\IdeaProjects\Test01\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.test.testgetNameSalaryAndDept">
+    <configuration name="test.testAddTransaction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="www.lagou.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="www.lagou.app" />
+      <option name="MAIN_CLASS_NAME" value="www.lagou.app.test" />
+      <option name="METHOD_NAME" value="testAddTransaction" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.testByColor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="www.lagou.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="www.lagou.app" />
+      <option name="MAIN_CLASS_NAME" value="www.lagou.app.test" />
+      <option name="METHOD_NAME" value="testByColor" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.testByPriceAndYear" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="www.lagou.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="www.lagou.app" />
+      <option name="MAIN_CLASS_NAME" value="www.lagou.app.test" />
+      <option name="METHOD_NAME" value="testByPriceAndYear" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.testgetAllEmployee" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="www.lagou.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="www.lagou.app" />
+      <option name="MAIN_CLASS_NAME" value="www.lagou.app.test" />
+      <option name="METHOD_NAME" value="testgetAllEmployee" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.testgetNameSalaryAndDept" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="www.lagou.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="www.lagou.app" />
+      <option name="MAIN_CLASS_NAME" value="www.lagou.app.test" />
+      <option name="METHOD_NAME" value="testgetNameSalaryAndDept" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.test.testgetNameSalaryAndDept" />
+        <item itemvalue="JUnit.test.testgetAllEmployee" />
+        <item itemvalue="JUnit.test.testByColor" />
+        <item itemvalue="JUnit.test.testByPriceAndYear" />
+        <item itemvalue="JUnit.test.testAddTransaction" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a07feaa-be01-4862-92b9-709b6debf903" name="Default Changelist" comment="" />
+      <created>1597385762902</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597385762902</updated>
+      <workItem from="1597385767121" duration="11975000" />
+      <workItem from="1597451772683" duration="13245000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="370" y="249" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1597457592850">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="370" y="249" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1280.984@0.0.1280.984" timestamp="1597457592850" />
+    <state x="445" y="184" key="#com.intellij.ide.util.MemberChooser" timestamp="1597466831806">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="445" y="184" key="#com.intellij.ide.util.MemberChooser/0.0.1280.984@0.0.1280.984" timestamp="1597466831806" />
+    <state x="370" y="240" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597458997766">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="370" y="240" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.984@0.0.1280.984" timestamp="1597458997766" />
+    <state x="280" y="140" key="#toString()_Generation_Settings" timestamp="1597387426998">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="280" y="140" key="#toString()_Generation_Settings/0.0.1280.984@0.0.1280.984" timestamp="1597387426998" />
+    <state x="314" y="234" key="FileChooserDialogImpl" timestamp="1597385862706">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="314" y="234" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1597385862706" />
+    <state width="1236" height="304" key="GridCell.Tab.0.bottom" timestamp="1597468644404">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1236" height="304" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1597468644404" />
+    <state width="1236" height="304" key="GridCell.Tab.0.center" timestamp="1597468644404">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1236" height="304" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1597468644404" />
+    <state width="1236" height="304" key="GridCell.Tab.0.left" timestamp="1597468644404">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1236" height="304" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1597468644404" />
+    <state width="1236" height="304" key="GridCell.Tab.0.right" timestamp="1597468644404">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1236" height="304" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1597468644404" />
+    <state width="1236" height="320" key="GridCell.Tab.1.bottom" timestamp="1597467575005">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1236" height="320" key="GridCell.Tab.1.bottom/0.0.1280.984@0.0.1280.984" timestamp="1597467575005" />
+    <state width="1236" height="320" key="GridCell.Tab.1.center" timestamp="1597467574990">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1236" height="320" key="GridCell.Tab.1.center/0.0.1280.984@0.0.1280.984" timestamp="1597467574990" />
+    <state width="1236" height="320" key="GridCell.Tab.1.left" timestamp="1597467574990">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1236" height="320" key="GridCell.Tab.1.left/0.0.1280.984@0.0.1280.984" timestamp="1597467574990" />
+    <state width="1236" height="320" key="GridCell.Tab.1.right" timestamp="1597467574990">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1236" height="320" key="GridCell.Tab.1.right/0.0.1280.984@0.0.1280.984" timestamp="1597467574990" />
+    <state x="120" y="68" key="SettingsEditor" timestamp="1597460401041">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="120" y="68" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1597460401041" />
+    <state x="338" y="392" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1597395418934">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="338" y="392" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.984@0.0.1280.984" timestamp="1597395418934" />
+    <state x="303" y="211" width="672" height="678" key="search.everywhere.popup" timestamp="1597461858964">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="303" y="211" width="672" height="678" key="search.everywhere.popup/0.0.1280.984@0.0.1280.984" timestamp="1597461858964" />
+  </component>
+</project>
